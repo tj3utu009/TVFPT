@@ -65,7 +65,7 @@ udp://@225.1.2.199:30120
 udp://@225.1.2.198:30120
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.vthanhtivi.pw/v1/getlink/vieon/vtc7-todaytv-hd
+udp://@225.1.2.197:30120
 #EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 udp://@225.1.2.196:30120
