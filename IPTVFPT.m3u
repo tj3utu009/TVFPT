@@ -169,7 +169,7 @@ udp://@225.1.1.40:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/GhJ0JTH.png",Hà Nội 1 HD
 udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/OogZeGW.png",Hà Nội 2 HD
-https://sgn-fpt-003-livecdn-vthcm-vnd.vieon.vn/45e7d32a77c7cf5724a9bb4fa1bd4df0/1675429473580/htv_drm/live/i_ha_noi_2/TV_HD/i_ha_noi_2_480p/chunks.m3u8
+https://vtvgo-livedp.vtvdigital.vn/affe1393cd9a196dc3fc9fcb2999cd52/1675358052191/hanoi2tv/hanoi2tv@mid.m3u8
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png", THP HD _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
