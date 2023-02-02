@@ -170,10 +170,10 @@ udp://@225.1.1.40:30120
 udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/OogZeGW.png",Hà Nội 2 HD
 http://103.90.220.236/hntvlive/tv2live.m3u8
-#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THP HD _ TH TP. Hải Phòng
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/thp/${start}/${offset}", THP HD _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
-https://live.thhp.vn/hls/thpplus/index.m3u8
+#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png" catchup="append" catchup-days="2" catchup-source="https://live.thhp.vn/hls/thpplus/${start}/${offset}", THP+ HD | TH Hải Phòng
+https://live.thhp.vn/hls/thpplus/index.m3u8?1
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV HD _ TH Ninh Bình
 udp://@225.1.2.185:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",NTV HD _ TH Nghệ An
