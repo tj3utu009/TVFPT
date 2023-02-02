@@ -169,7 +169,7 @@ udp://@225.1.1.40:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/GhJ0JTH.png",Hà Nội 1 HD
 udp://@225.1.2.186:30120
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/OogZeGW.png",Hà Nội 2 HD
-https://s72138.cdn.mytvnet.vn/v5live.m3u8
+https://s72138.cdn.mytvnet.vn/v5live.m3u8?c=vstv478&q=hd&deviceType=127&userId=15462641&deviceId=&type=tv&p=0&zn=netott&rkey=15462641tc4y9dwx&ctl=9.40&hc=ctl12&sl=6&drmsrv=ctl12.mytvnet.vn&naddr=123.29.72.138&pkg=pkg12.hni&profiles=hd,sd&&bhd=6000000&bsd=3000000&location=FPT&rbk=17216240186&pnode=172.16.143.2&isp=all
 #EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg",THP HD _ TH TP. Hải Phòng
 udp://@225.1.1.44:30120
 #EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
