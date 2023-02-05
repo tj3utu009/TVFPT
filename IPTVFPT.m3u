@@ -63,7 +63,7 @@ udp://@225.1.2.199:30120
 #EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://sgn-fpt-001-livecdn-vthn-vnd.vieon.vn/2b0661fc9cab021c77996d72c39bc9fb/1675666772798/vtc/live/hd_vtc7/TV_HD/hd_vtc7_1080p/chunks_dvr_range-${start}-${offset}.m3u8", VTC7 HD - TodayTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgn-fpt-003-livecdn-vthn-vnd.vieon.vn/be981fc61f44d9b5734a477296828666/1675429029901/vtc/live/hd_vtc7/TV_HD/hd_vtc7_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
